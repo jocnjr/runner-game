@@ -1,9 +1,6 @@
 console.log('yo runner!');
 console.log('yo runner!');
 console.log('yo runner!');
-console.log('yo runner!');
-console.log('yo runner!');
-console.log('yo runner!');
 
 const myObstacles = [];
 
